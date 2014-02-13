@@ -2,18 +2,18 @@
 
 <img src="https://raw2.github.com/caiogondim/alfred-chrome-window-workflow/master/img/chrome-logo.png" alt="Alfred new Chrome window workflow" align="right" width="200px" />
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, quis, fuga,
-dignissimos odit dolores nam hic maxime vel nulla architecto explicabo inventore
-autem saepe sed aut animi atque ratione accusantium!
+A small workflow to create new windows of the Chrome browser without having to
+be in it's context. Creates default Chrome window, Incognito and Canary.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, omnis,
-optio, quia accusantium eaque quos non voluptate vero voluptas dolor nisi
-dolorum enim placeat iusto obcaecati dolore repellendus consequatur illo.
+This workflow is only for Alfred.app Powerpack users. To download it, click
+[here](https://github.com/caiogondim/alfred-iterm-workflow/raw/master/iTerm.alfredworkflow).
+Below you can see a list of commands supported.
 
 ## New window (cw)
 
 <img src="https://raw2.github.com/caiogondim/alfred-chrome-window-workflow/master/img/open-chrome-window.png" alt="Alfred new Chrome window workflow" />
 Opens a new Chrome window in the current space.
+
 **Keyword**: cw
 
 
@@ -21,13 +21,15 @@ Opens a new Chrome window in the current space.
 
 <img src="https://raw2.github.com/caiogondim/alfred-chrome-window-workflow/master/img/open-incognito-window.png" alt="Alfred new Chrome window workflow" />
 Opens a new Chrome Incognito window in the current space.
-**Keyword**: cw + ⌥(option)
+
+**Keyword**: cw + ⌥ (option)
 
 ## New Chrome Canary window (cw + ⌘)
 
 <img src="https://raw2.github.com/caiogondim/alfred-chrome-window-workflow/master/img/open-canary-window.png" alt="Alfred new Chrome window workflow" />
 Opens a new Chrome Canary window in the current space.
-**Keyword**: cw + ⌘(command)
+
+**Keyword**: cw + ⌘ (command)
 
 # Credits
 
