@@ -35,6 +35,7 @@ Opens a new Chrome Canary window in the current space.
 
 # Credits
 
+- This workflow is highly inspired in [Ryan Paul's one](http://blog.phault.net/2013/01/my-first-workflows-for-the-alfred-v2-beta/)
 
 # License
 
