@@ -6,22 +6,28 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, quis, fuga,
 dignissimos odit dolores nam hic maxime vel nulla architecto explicabo inventore
 autem saepe sed aut animi atque ratione accusantium!
 
-## New window
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, omnis,
+optio, quia accusantium eaque quos non voluptate vero voluptas dolor nisi
+dolorum enim placeat iusto obcaecati dolore repellendus consequatur illo.
+
+## New window (cw)
 
 <img src="https://raw2.github.com/caiogondim/alfred-chrome-window-workflow/master/img/open-chrome-window.png" alt="Alfred new Chrome window workflow" />
 Opens a new Chrome window in the current space.
+**Keyword**: cw
 
 
-## New Incognito window
+## New Incognito window (cw + ⌥)
 
 <img src="https://raw2.github.com/caiogondim/alfred-chrome-window-workflow/master/img/open-incognito-window.png" alt="Alfred new Chrome window workflow" />
 Opens a new Chrome Incognito window in the current space.
+**Keyword**: cw + ⌥(option)
 
-## New Chrome Canary window
+## New Chrome Canary window (cw + ⌘)
 
 <img src="https://raw2.github.com/caiogondim/alfred-chrome-window-workflow/master/img/open-canary-window.png" alt="Alfred new Chrome window workflow" />
 Opens a new Chrome Canary window in the current space.
-
+**Keyword**: cw + ⌘(command)
 
 # Credits
 
