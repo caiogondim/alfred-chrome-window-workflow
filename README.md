@@ -1,4 +1,6 @@
-# New Chrome window Alfred.app workflow
+# New Chrome window workflow
+
+<img src="https://raw2.github.com/caiogondim/alfred-chrome-window-workflow/master/img/chrome-logo.png" alt="Alfred new Chrome window workflow" align="right" width="200px" />
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, quis, fuga,
 dignissimos odit dolores nam hic maxime vel nulla architecto explicabo inventore
@@ -6,15 +8,18 @@ autem saepe sed aut animi atque ratione accusantium!
 
 ## New window
 
+<img src="https://raw2.github.com/caiogondim/alfred-chrome-window-workflow/master/img/open-chrome-window.png" alt="Alfred new Chrome window workflow" />
 Opens a new Chrome window in the current space.
 
 
 ## New Incognito window
 
+<img src="https://raw2.github.com/caiogondim/alfred-chrome-window-workflow/master/img/open-incognito-window.png" alt="Alfred new Chrome window workflow" />
 Opens a new Chrome Incognito window in the current space.
 
 ## New Chrome Canary window
 
+<img src="https://raw2.github.com/caiogondim/alfred-chrome-window-workflow/master/img/open-canary-window.png" alt="Alfred new Chrome window workflow" />
 Opens a new Chrome Canary window in the current space.
 
 
