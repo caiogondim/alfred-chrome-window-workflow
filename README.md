@@ -6,7 +6,7 @@ A small workflow to create new windows of the Chrome browser without having to
 be in it's context. Creates default Chrome window, Incognito and Canary.
 
 To download it, click
-[here](https://github.com/caiogondim/alfred-iterm-workflow/raw/master/iTerm.alfredworkflow).
+[here](https://github.com/caiogondim/alfred-chrome-window-workflow/raw/master/Chrome%20Window.alfredworkflow).
 
 This workflow is only for Alfred.app Powerpack users. Below you can see a list
 of commands supported.
