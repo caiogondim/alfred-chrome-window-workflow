@@ -14,14 +14,15 @@ of commands supported.
 ## New window (cw)
 
 <img src="https://raw.githubusercontent.com/caiogondim/alfred-chrome-window-workflow/master/img/open-chrome-window.png" alt="Alfred new Chrome window workflow" />
+
 Opens a new Chrome window in the current space.
 
 **Keyword**: cw
 
-
 ## New Incognito window (cw + ⌥)
 
 <img src="https://raw.githubusercontent.com/caiogondim/alfred-chrome-window-workflow/master/img/open-incognito-window.png" alt="Alfred new Chrome window workflow" />
+
 Opens a new Chrome Incognito window in the current space.
 
 **Keyword**: cw + ⌥ (option)
@@ -29,6 +30,7 @@ Opens a new Chrome Incognito window in the current space.
 ## New Chrome Canary window (cw + ⌘)
 
 <img src="https://raw.githubusercontent.com/caiogondim/alfred-chrome-window-workflow/master/img/open-canary-window.png" alt="Alfred new Chrome window workflow" />
+
 Opens a new Chrome Canary window in the current space.
 
 **Keyword**: cw + ⌘ (command)
